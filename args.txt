@@ -1,0 +1,3 @@
+# Add your list of netblocks here, one per line
+
+net:127.0.0.0/8
